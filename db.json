@@ -41,12 +41,5 @@
         "syllabus": "State",
         "name": "Alphabets",
         "subject": "English"
-    }],
-  "standards":
-    {
-        "id": 1,
-        "name": "1st standard",
-        "section": "A",
-        "syllabus": "ICSE",
-    }
+    }]
 }
