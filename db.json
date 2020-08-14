@@ -43,37 +43,27 @@
     {
       "id": 1,
       "standard": "9th standard (A)",
-      "syllabus": "ICSE",
-      "name": "Algebraic Equations",
-      "subject": "Mathematics"
+      "syllabus": "ICSE"
     },
     {
-    "id": 2,
-    "standard": "7th standard (B)",
-    "syllabus": "CBSE",
-    "name": "History of India",
-    "subject": "Social"
+      "id": 2,
+      "standard": "7th standard (B)",
+      "syllabus": "CBSE"
     },
     {
         "id": 3,
         "standard": "8th standard (C)",
-        "syllabus": "State",
-        "name": "Malgudi Days",
-        "subject": "English"
+        "syllabus": "State"
     },
     {
         "id": 4,
         "standard": "10th standard (A)",
-        "syllabus": "ICSE",
-        "name": "Geometry",
-        "subject": "Mathematics"
+        "syllabus": "ICSE"
     },
     {
         "id": 5,
         "standard": "6th standard (B)",
-        "syllabus": "CBSE",
-        "name": "History of Karnataka",
-        "subject": "Social"
+        "syllabus": "CBSE"
     }
   ]
 }
