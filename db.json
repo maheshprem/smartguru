@@ -1,6 +1,6 @@
 {
     "question_papers": {
-        {
+        [{
             "id": 1,
             "standard": "9th standard",
             "section": "A",
@@ -47,10 +47,10 @@
             "syllabus": "State",
             "name": "Alphabets",
             "subject": "English"
-        }
+        }]
     },
     "standards": {
-        {
+        [{
             "id": 1,
             "name": "1st standard",
             "section": "A",
@@ -85,6 +85,6 @@
             "name": "2nd standard",
             "section": "B",
             "syllabus": "ICSE",
-        }
+        }]
     }
 }
