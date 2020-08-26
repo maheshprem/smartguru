@@ -66,28 +66,38 @@
         "syllabus": "CBSE"
     }
   ],
-  "qp1": [ 
-           {
-            "q1": {
-                "question": "5 + 7 = ?",
+  "maths1": [ 
+    {
+        "question": "5 + 7 = ?",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "answer": "12"
+    },
+    {
+        "question": "12 - 8 = ?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": "4"
+    }
+],
+"sports1": [ 
+       {
+                "question": "Which one is correct team name in NBA?",
                 "options": [
-                    "10",
-                    "11",
-                    "12",
-                    "13"
+                    "New York Bulls",
+                    "Los Angeles Kings",
+                    "Golden State Warriros",
+                    "Huston Rocket"
                 ],
-                "answer": "12"
-            },
-            "q2": {
-                "question": "12 - 8 = ?",
-                "options": [
-                    "1",
-                    "2",
-                    "3",
-                    "4"
-                ],
-                "answer": "4"
-            }
-        }
-    ]
+                "answer": "Huston Rocket"
+       }
+]
 }
